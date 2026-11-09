@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Extensão e Autenticação — Saúde Ocular (Certificado Nº 05)",
+  "description": "Plataforma interativa e portal de fé pública do Projeto de Extensão 'Mitos e Verdades na Saúde Ocular: Combate à Desinformação nas Redes Sociais e Alerta contra Colírios Caseiros', com visualizador e exportador PDF A4 Frente e Verso e autenticador criptográfico via QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
